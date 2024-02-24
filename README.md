@@ -5,14 +5,13 @@ Analytics Portfolio
 
 **Approach.**
 
- 1. Import
+ 1. Import.
     LegoSets Data provided by Maven Analytics, was imported to Power Bi and transformed to enable Data cleaning in Power Query.
 
- 2. Data Cleaning
+ 2. Data Cleaning.
     The data set was explored using power query and, advanced cleaning such as filtering, sorting and new queries and columns were added.
 
- 3. Visualization with Power BI
- 4. 
+ 3. Visualization with Power BI.
     a. The Cleaned was applied and saved.
 
     b. A first page detailing the sales and revenue projections by age, Decade, themes, category were visualized. Also, the top 5 Theme and SubTheme, the top item by category and Projected revenue including the image were viaualized.
