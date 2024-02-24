@@ -1,6 +1,7 @@
 
 Analytics Portfolio
 
+<img width="1262" alt="Screenshot 2024-02-23 111458" src="https://github.com/dreyman91/Projects/assets/96593750/815f7797-3ba2-4132-81d3-1b8fd917b015">
 
 **Approach.**
 
