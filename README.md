@@ -1,7 +1,8 @@
-# Projects
+
 Analytics Portfolio
 
 **Approach.**
+
  1. Import
     LegoSets Data provided by Maven Analytics, was imported to Power Bi and transformed to enable Data cleaning in Power Query.
 
@@ -18,6 +19,7 @@ Analytics Portfolio
     d. In order to give supplementary information on the decades, AI tools and internet search engines were used to conduct researches.
 
 **Insight.**
+
     a. Pre-90s, LEGOSET had a very poor run of Revenue but this ended with a high return at the beginning of the 90s.
 
     b. Sales and Revenues were limited to or expected from " zero age range" but this changed significantly in the 5th Decade.
