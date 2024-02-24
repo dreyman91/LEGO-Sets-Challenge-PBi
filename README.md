@@ -10,6 +10,7 @@ Analytics Portfolio
     The data set was explored using power query and, advanced cleaning such as filtering, sorting and new queries and columns were added.
 
  3. Visualization with Power BI
+ 4. 
     a. The Cleaned was applied and saved.
 
     b. A first page detailing the sales and revenue projections by age, Decade, themes, category were visualized. Also, the top 5 Theme and SubTheme, the top item by category and Projected revenue including the image were viaualized.
